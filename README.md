@@ -60,18 +60,6 @@ Uses HashMap, Trie, Graph & MongoDB to store and recall information with graph v
 
 ---
 
-<!-- ======================= GITHUB STATS ======================= -->
-
-## 📈 GitHub Stats  
-
-![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbhishekX04&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekX04&layout=compact)
-
-### 🔥 GitHub Streak  
-![GitHub Streak](https://streak-stats.demolab.com/?user=AbhishekX04)
-
----
-
 ### 📫 Connect With Me  
 **LinkedIn:** https://l1nk.dev/AbhishekBathnotra  
 **Email:** Abhishekbathnotra120804@gmail.com  
