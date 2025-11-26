@@ -29,3 +29,8 @@ Currently improving my skills in Python, ML algorithms, deep learning, data anal
 ---
 
 ⭐️ *Feel free to explore my repositories and drop a star!*
+
+
+![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbhishekX04&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekX04&layout=compact)
+
