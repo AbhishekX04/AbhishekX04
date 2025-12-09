@@ -8,6 +8,23 @@ Focused on developing skills in Python, ML algorithms, Deep Learning, Data Analy
 
 ---
 
+<!-- ======================= SOCIALS ======================= -->
+
+## 🌐 Connect With Me  
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/abhishek-ai-ml/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/abhishek._x04/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://x.com/AbhishekBa65629" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?logo=x&logoColor=white"/>
+  </a>
+</p>
+
+
 <!-- ======================= SKILLS / TECH STACK ======================= -->
 
 ## 🧠 Skills & Technologies  
@@ -54,6 +71,13 @@ Focused on developing skills in Python, ML algorithms, Deep Learning, Data Analy
 
 ---
 
+<!-- ======================= RESUME BUTTON ======================= -->
+
+## 📄 Resume  
+
+[![View Resume](https://img.shields.io/badge/View%20My%20Resume-Click%20Here-blue?logo=readme)](https://drive.google.com/file/d/1MSNY7_E8bkgOPWyy2s2NZjyyu0IyzWdV/view?usp=drive_link)
+
+
 <!-- ======================= FEATURED PROJECTS ======================= -->
 
 ## 🔥 Featured Projects  
@@ -72,9 +96,18 @@ Uses HashMap, Trie, Graph & MongoDB to store and recall information with graph v
 
 ---
 
-### 📫 Connect With Me  
-**LinkedIn:** https://l1nk.dev/AbhishekBathnotra  
-**Email:** Abhishekbathnotra120804@gmail.com  
+<!-- ======================= RANDOM DEV QUOTE ======================= -->
+
+## ✨ Random Dev Quote  
+
+![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+<!-- ======================= TOP CONTRIBUTED REPO ======================= -->
+
+## 🚀 Top Contributed Repo  
+
+![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=AbhishekX04&limit=1&theme=dark&combine_all_yearly_contributions=true)
+
 
 ⭐️ *Feel free to explore my repositories and drop a star!*
 
